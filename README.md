@@ -26,5 +26,5 @@ Jumbo-Device-Insurance-Analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Jumbo-Device-Insurance-Analysis.git
+git clone https://github.com/ayushbora2003/Jumbo-Device-Insurance-Analysis.git
 cd Jumbo-Device-Insurance-Analysis
