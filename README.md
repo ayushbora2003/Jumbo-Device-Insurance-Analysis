@@ -13,12 +13,19 @@ Comprehensive analysis of device insurance attach rates across Jumbo & Company r
 
 ## 📁 Repository Structure
 Jumbo-Device-Insurance-Analysis/
+
 ├── project2.ipynb # Main Jupyter Notebook with complete analysis
+
 ├── analysis/
+
 │ ├── Jumbo_Analysis_Report_With_Predictions.csv # Detailed store predictions
+
 │ ├── Jumbo_Comprehensive_Analysis_Report.txt # Complete text analysis
+
 │ └── Jumbo_Analysis_Dashboard.png # Visual dashboard
+
 ├── README.md # This file
+
 └── requirements.txt # Python dependencies
 
 
