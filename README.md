@@ -14,7 +14,7 @@ Comprehensive analysis of device insurance attach rates across Jumbo & Company r
 ## 📁 Repository Structure
 Jumbo-Device-Insurance-Analysis/
 
-├── project2.ipynb # Main Jupyter Notebook with complete analysis
+├── Jumbo_Analysis.ipynb # Main Jupyter Notebook with complete analysis
 
 ├── analysis/
 
